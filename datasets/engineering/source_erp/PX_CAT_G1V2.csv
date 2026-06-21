@@ -1,0 +1,38 @@
+ID,CAT,SUBCAT,MAINTENANCE
+PR_FR,Produce,Fresh Fruit,No
+PR_FR,Produce,Fresh Vegetables,Yes
+PR_HE,Produce,Herbs,Yes
+PR_SA,Produce,Salad Bags,No
+DA_MI,Dairy,Milk,No
+DA_CH,Dairy,Cheese,No
+DA_YO,Dairy,Yoghurt,Yes
+DA_BU,Dairy,Butter,Yes
+BK_BR,Bakery,Bread,No
+BK_PA,Bakery,Pastries,No
+BK_CA,Bakery,Cakes,No
+BK_WR,Bakery,Wraps,Yes
+MT_BE,Meat & Seafood,Beef,No
+MT_CH,Meat & Seafood,Chicken,No
+MT_FI,Meat & Seafood,Fish,No
+MT_SE,Meat & Seafood,Seafood,Yes
+PN_RI,Pantry,Rice & Pasta,Yes
+PN_CA,Pantry,Canned Goods,No
+PN_SA,Pantry,Sauces,Yes
+PN_CO,Pantry,Cooking Oil,No
+BV_WA,Beverages,Water,No
+BV_JU,Beverages,Juice,Yes
+BV_SO,Beverages,Soft Drinks,Yes
+BV_CO,Beverages,Coffee & Tea,Yes
+SN_CH,Snacks,Chips,No
+SN_BI,Snacks,Biscuits,Yes
+SN_CH,Snacks,Chocolate,Yes
+SN_NU,Snacks,Nuts,Yes
+HH_CL,Household,Cleaning,Yes
+HH_PA,Household,Paper Goods,Yes
+HH_LA,Household,Laundry,No
+FR_FR,Frozen,Frozen Meals,Yes
+FR_FR,Frozen,Frozen Vegetables,Yes
+FR_IC,Frozen,Ice Cream,Yes
+HB_PE,Health & Beauty,Personal Care,No
+HB_BA,Health & Beauty,Baby Care,No
+HB_PH,Health & Beauty,Pharmacy,No
