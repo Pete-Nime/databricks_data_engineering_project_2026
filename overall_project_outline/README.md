@@ -257,6 +257,11 @@ Verify transformed outputs.
 
 Schedule automated execution using Databricks Jobs.
 
+<img width="1788" height="998" alt="Screenshot 2026-06-21 at 7 16 48 PM" src="https://github.com/user-attachments/assets/01fd875f-93e0-4b5d-b9cb-5c799f59ebd9" />
+<img width="1784" height="998" alt="Screenshot 2026-06-21 at 7 17 09 PM" src="https://github.com/user-attachments/assets/ea9f031f-db77-49b1-b921-6e66dfebbe4c" />
+
+
+
 ---
 
 # Databricks Job Automation
